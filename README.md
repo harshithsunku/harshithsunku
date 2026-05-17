@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Harshith Sunku</h1>
 <p align="center">
-  Software engineer — systems, embedded, Linux. C / Assembly / TypeScript.<br/>
+  Build anything, anywhere — from CPU registers to UI, cloud, and AI.<br/>
+  No language barrier. No stack barrier.<br/>
   <a href="https://harshith.in">harshith.in</a> ·
   <a href="https://x.com/harshithsunku">X</a> ·
   <a href="https://linkedin.com/in/harshithsunku">LinkedIn</a> ·
@@ -11,7 +12,22 @@
 
 ### About
 
-I build close-to-the-metal software — bootloaders, network stacks, profilers, tiny kernels, embedded libraries. I like understanding systems by writing them from scratch.
+I work across the entire stack — silicon to cloud. I've written bootloaders in Assembly, kernels and network stacks in C, embedded firmware on ESP32, infra tools in TypeScript, AI integrations in Python, web apps in JavaScript, and APIs in everything from Go to Java. Pick the layer, pick the language — I'll meet you there.
+
+Comfortable from the lowest level up:
+
+```
+register / boot  →  kernel / driver  →  systems / network  →  backend / API  →  frontend / UI  →  cloud / infra  →  AI / ML
+   Assembly         C, kernel APIs       C, sockets          Python, JS, Go     TS, React        Docker, Proxmox    LLM proxies, AI
+```
+
+### What I like building
+
+- **Close-to-the-metal:** bootloaders, kernels, TCP/IP stacks, schedulers
+- **Performance tooling:** profilers, flame graphs, thread-safe loggers
+- **Infra glue:** SSH key managers, Wake-on-LAN, container orchestration
+- **AI plumbing:** multi-provider LLM proxies, wearables integrations
+- **Educational rebuilds:** "let me write this from scratch to understand it"
 
 ### Selected projects
 
