@@ -12,7 +12,7 @@
 
 ### About
 
-I work across the entire stack — silicon to cloud. I've written bootloaders in Assembly, kernels and network stacks in C, embedded firmwares, infra tools in TypeScript, AI integrations in Python, web apps in JavaScript, and APIs in everything from Go to Java. Pick the layer, pick the language — I'll meet you there.
+I work across the entire stack — silicon to cloud. I've written bootloaders in Assembly, kernels and network stacks in C, embedded firmwares, infra tools in Multiple languages, AI integrations in Python/Node, web apps, and APIs in everything from Go to Java. Pick the layer, pick the language — I'll meet you there.
 
 Comfortable from the lowest level up:
 
